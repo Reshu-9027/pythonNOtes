@@ -12,4 +12,9 @@
    ### And Output will be
       
         <mysql.connector.connection.MySQLConnection object at 0x0187AE50>
+        
+        
+# Python Dajango Run Server Command 
+  
+    python manage.py runserver
    
